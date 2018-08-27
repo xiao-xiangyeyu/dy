@@ -1,0 +1,24 @@
+{
+    "name": "xiao-xiangyeyu/dy",
+    "description" :"简单的打印测试",
+    "type":"library",
+    "license":"MIT",
+    "authors":[
+    	{
+    		"name":"王守莹",
+    		"email":"1570491707@qq.com"
+    	}
+    ],
+    "minimum-stability":"dev",
+    "autoload":{
+    	"files":[
+    		"tools.php"
+    	]
+    },
+       "repositories": {
+	    "packagist": {
+	        "type": "composer",
+	        "url": "https://packagist.phpcomposer.com"
+	    }
+	}
+}
