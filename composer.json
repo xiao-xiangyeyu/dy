@@ -1,7 +1,7 @@
 {
     "name": "xiao-xiangyeyu/dy",
     "description" :"简单的打印测试",
-    "type":"library",
+    "type":"project",
     "license":"MIT",
     "authors":[
     	{
